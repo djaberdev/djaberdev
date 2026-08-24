@@ -19,3 +19,27 @@ I'm a **`Frontend Web Developer`** focused on building **modern, responsive, and
 ◈ ✨ **Smooth Interactions** → &nbsp;&nbsp;I Use ![GSAP](https://img.shields.io/badge/GSAP-88ce02?style=flat-square&logo=greensock&logoColor=111) to create smooth, purposeful, and modern **`Animations`**.
 <br />
 ◈ 🧊 **Interactive 3D** → &nbsp;&nbsp;Step Further, I Use ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-20232a?style=flat-square&logo=react&logoColor=61dafb) to integrate real and interactive **`3D Models`**.
+
+---
+
+### ⛏ Technologies Stack
+<table>
+  <tr>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+    <td valign="middle">
+      &nbsp;|&nbsp;
+    </td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/GSAP-88CE02.svg?style=for-the-badge&logo=greensock&logoColor=111111" alt="GSAP" />
+      <img src="https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+    </td>
+  </tr>
+</table>
+
+
